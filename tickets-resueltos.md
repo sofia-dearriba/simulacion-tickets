@@ -1,9 +1,9 @@
-# 🎫 Registro de Tickets - Help Desk IT
+Registro de Tickets - Help Desk IT
 **Autor:** Sofia Dearriba | Soporte Técnico N1
 
 ---
 
-## TKT-001 | Impresora sin respuesta
+TKT-001 | Impresora sin respuesta
 
 | Campo | Detalle |
 |-------|---------|
@@ -16,9 +16,9 @@
 La usuaria reporta que al intentar imprimir un documento desde Word, la impresora HP LaserJet no responde. El trabajo queda en cola pero no se imprime.
 
 **Diagnóstico:**  
-- Impresora encendida y conectada físicamente ✅
-- Cola de impresión con 3 trabajos atascados ⚠️
-- Servicio Print Spooler en estado "detenido" ❌
+- Impresora encendida y conectada físicamente 
+- Cola de impresión con 3 trabajos atascados 
+- Servicio Print Spooler en estado "detenido" 
 
 **Solución aplicada:**  
 1. Detención del servicio Spooler via CMD
@@ -27,7 +27,7 @@ La usuaria reporta que al intentar imprimir un documento desde Word, la impresor
 4. Prueba de impresión exitosa
 
 **Tiempo de resolución:** 8 minutos  
-**Estado:** ✅ CERRADO - Resuelto en N1
+**Estado:**  CERRADO - Resuelto en N1
 
 ---
 
@@ -59,7 +59,7 @@ El equipo no está obteniendo IP del servidor DHCP.
 5. Navegación restaurada
 
 **Tiempo de resolución:** 12 minutos  
-**Estado:** ✅ CERRADO - Resuelto en N1
+**Estado:**  CERRADO - Resuelto en N1
 
 ---
 
@@ -75,9 +75,9 @@ El equipo no está obteniendo IP del servidor DHCP.
 **Descripción del problema:**  
 La usuaria olvidó su contraseña de Windows y no puede ingresar al equipo.
 
-**Diagnóstico:**  
-- Cuenta de dominio activa ✅
-- Sin bloqueo por intentos fallidos ✅
+**Diagnóstico:** 
+- Cuenta de dominio activa 
+- Sin bloqueo por intentos fallidos 
 - Requiere reset de contraseña por administrador
 
 **Solución aplicada:**  
@@ -87,7 +87,7 @@ La usuaria olvidó su contraseña de Windows y no puede ingresar al equipo.
 4. Comunicación de nueva contraseña por canal seguro
 
 **Tiempo de resolución:** 5 minutos  
-**Estado:** ✅ CERRADO - Resuelto en N1
+**Estado:**  CERRADO - Resuelto en N1
 
 ---
 
@@ -106,7 +106,7 @@ El usuario reporta que su PC está muy lenta desde hace dos días. Los programas
 **Diagnóstico:**  
 - Uso de CPU: 95% constante (Administrador de Tareas)
 - Proceso consumidor: antivirus en escaneo programado + Windows Update en segundo plano
-- Espacio en disco C: 98% ocupado ⚠️
+- Espacio en disco C: 98% ocupado 
 
 **Solución aplicada:**  
 1. Pausa temporal del escaneo de antivirus
@@ -117,7 +117,7 @@ El usuario reporta que su PC está muy lenta desde hace dos días. Los programas
 6. CPU normalizado al 15-20%
 
 **Tiempo de resolución:** 20 minutos  
-**Estado:** ✅ CERRADO - Resuelto en N1
+**Estado:**  CERRADO - Resuelto en N1
 
 ---
 
